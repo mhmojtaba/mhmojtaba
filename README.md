@@ -1,5 +1,5 @@
 # 💫 About Me:
-Solidity smart contract developer as well as frontEnd developer
+smart contract developer | security researcher | frontend developer
 
 
 ## 🌐 Socials:
